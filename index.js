@@ -22,9 +22,9 @@ const port = process.env.PORT || 3000;
 
 // 🔥 CORE PROTECTION: Identity check function
 const _0x_dev_null_identity = () => {
-    const brand = "@Dev_Null_X";
-    if (brand !== "@Dev_Null_X") { 
-        console.error("❌ ILLEGAL MODIFICATION DETECTED: PLEASE RE-DOWNLOAD FROM @Dev_Null_X");
+    const brand = "@Dark_Leader01";
+    if (brand !== "@Dark_Leader01") { 
+        console.error("❌ ILLEGAL MODIFICATION DETECTED: PLEASE RE-DOWNLOAD FROM @Dark_Leader01");
         process.exit(1); 
     }
     return brand;
@@ -104,7 +104,7 @@ async function init() {
                          "🔹 `/leavevc [link]` - Leave All VC\n" +
                          "🔹 `/addadmin [ID]` - Add New Admin\n" +
                          "🔹 `/stats` - Check Active Accounts\n\n" +
-                         "🇮🇳 **Developed by @Dev_Null_X**",
+                         "🇮🇳 **Developed by @Dark_Leader01**",
                 file: "https://files.catbox.moe/dkxoeu.jpg"
             });
         }
