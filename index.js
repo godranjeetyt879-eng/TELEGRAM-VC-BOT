@@ -1,7 +1,7 @@
 /* ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
   🚫 COPYRIGHT & AUTHORSHIP WARNING 🚫
   
-  Developer: @Dev_Null_X (Telegram)
+  Developer: @Dark_Leader01 (Telegram)
   Brand: Node.js India Developers 🇮🇳
   YouTube: https://www.youtube.com/@Dev_Null_X
   
@@ -242,7 +242,7 @@ async function init() {
                     console.log(`❌ Account ${i+1} leave error: ${e.message}`);
                 }
             }
-            await message.reply({ message: "✅ All accounts have left the Voice Chat! \n🛡️ Powered by @Dev_Null_X" });
+            await message.reply({ message: "✅ All accounts have left the Voice Chat! \n🛡️ Powered by @Dark_Leader01" });
         }
 
 
